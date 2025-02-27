@@ -52,10 +52,10 @@ L'Algérie rencontre plusieurs défis dans le domaine de la santé, notamment :
 ## 🎥 Vidéos de Présentation  
 
 📱 **Application Mobile**  
-➡️ [Voir la vidéo](videos/sante_dz_mobile.mp4)  
+➡️ [Voir la vidéo](https://drive.google.com/file/d/1ioBSldJvUb0MbX6QoL0kRwB_RTyhD8Uk/view?usp=sharing)  
 
 💻 **Site Web**  
-➡️ [Voir la vidéo](videos/sante_dz_web.mp4)  
+➡️ [Voir la vidéo](https://drive.google.com/file/d/1L54sSAQckl59r5cUs3gQcReCUHTqb56Y/view?usp=sharing)  
 
 ---
 
