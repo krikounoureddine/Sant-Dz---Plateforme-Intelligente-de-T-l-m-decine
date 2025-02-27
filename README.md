@@ -62,4 +62,4 @@ L'Algérie rencontre plusieurs défis dans le domaine de la santé, notamment :
 ## 📄 Rapport de Projet  
 
 📥 **Télécharger le Rapport de Projet (PowerPoint)**  
-➡️ [Rapport de Projet (PPT)](rapport_sante_dz.pptx) 
+➡️ [Rapport de Projet (PPT)](docs/rapport_sante_dz.pptx) 
