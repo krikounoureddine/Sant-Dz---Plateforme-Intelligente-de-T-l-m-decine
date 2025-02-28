@@ -3,7 +3,10 @@
 ## 📌 Contexte du Projet  
 
 **S@nté.Dz** est une plateforme intelligente de **diagnostic et suivi à distance des anomalies radiologiques**, développée dans le cadre d'un **projet de fin de cycle Master 2 (Juin 2023)**.  
-Elle se compose d'une **application mobile** et d'un **site web dynamique**, permettant aux patients et médecins d'accéder à des services médicaux à distance.  
+Elle se compose d'une **application mobile** et d'un **site web dynamique**, permettant aux patients et médecins d'accéder à des services médicaux à distance. 
+
+🖼️ **Aperçu du projet**  
+![Aperçu du projet](docs/Logo.PNG)
 
 ---
 
@@ -31,7 +34,10 @@ L'Algérie rencontre plusieurs défis dans le domaine de la santé, notamment :
 - 🤝 Collaboration et échanges entre professionnels de santé.  
 
 🧠 **Technologie IA**  
-- 📊 **Détection et classification des anomalies radiologiques** grâce à des **modèles de Deep Learning** (segmentation & classification).  
+- 📊 **Détection et classification des anomalies radiologiques** grâce à des **modèles de Deep Learning** (segmentation & classification).
+
+  🖼️ **Aperçu du projet**  
+![Aperçu du projet](docs/solution.PNG)
 
 ---
 
